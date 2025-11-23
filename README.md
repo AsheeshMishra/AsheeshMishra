@@ -1,4 +1,4 @@
-👋 Hi, I’m **Asheesh Kumar Mishra**, currently working as a **Specialist Programmer** at Infosys in Pune, India and also a former **Software Developer Intern** at CarDekho in Gurugram, India.
+👋 Hi, I’m **Asheesh Kumar Mishra**, currently working as a **Software Engineer(Specialist Programmer)** at Infosys in Pune, India and also a former **Software Developer Intern** at CarDekho in Gurugram, India.
   
 👀 I’m interested in **full-stack development**, particularly in crafting robust web applications that enhance user experience.
 
